@@ -1,0 +1,6 @@
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Yuliia_Akhramovych\Desktop\Visual_Studio\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
