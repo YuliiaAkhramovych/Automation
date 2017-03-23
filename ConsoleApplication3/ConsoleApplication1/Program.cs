@@ -4,7 +4,7 @@
     class DealingWithTypes
     {
         enum Days { Mon, Tue, Wed, Thu, Fri, Sat, Sun };
-        
+
         public static void Main()
         {
             DateTime currentDay = DateTime.Now;
@@ -48,4 +48,4 @@
             }
         }
     }
-}    
+}
